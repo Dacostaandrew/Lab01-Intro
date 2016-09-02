@@ -14,7 +14,9 @@ Suppose the origin repository you downloaded before has changed, and you want to
 > git pull origin master
 ```
 
-To submit your homework, simply download your folder (**NOTE: not the whole workspace**) for current assignment. Download the folder as a .tar.gz file (c9 default), and name the file as FirstnameLastname_LabNUMBER. For example, your name is Bob Dylan, you are submitting homework assignment for lab02, download your folder containing all the files for lab02 as .tar.gz file and rename it as *BobDylan_Lab02.tar.gz*, then send to your TA.
+
+#### To submit your homework
+Simply download your folder (**NOTE: not the whole workspace**) for current assignment. Download the folder as a .tar.gz file (c9 default), and name the file as FirstnameLastname_LabNUMBER. For example, your name is Bob Dylan, you are submitting homework assignment for lab02, download your folder containing all the files for lab02 as .tar.gz file and rename it as *BobDylan_Lab02.tar.gz*, then send to your TA.
 
 There are a lot other useful (especially for verion control and teamwork) git commands, such as git commit, git checkout, git merge, git push, if you're interested, please refer to the following link for details:
 
